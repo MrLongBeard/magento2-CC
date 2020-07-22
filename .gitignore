@@ -8,10 +8,6 @@ atlassian*
 /nbproject
 /robots.txt
 /pub/robots.txt
-/sitemap
-/sitemap.xml
-/pub/sitemap
-/pub/sitemap.xml
 /.idea
 /.gitattributes
 /app/config_sandbox
